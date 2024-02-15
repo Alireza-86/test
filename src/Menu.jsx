@@ -15,10 +15,6 @@ const Menu = ({items}) => {
                                     <p>{price}</p>
                                 </header>
                                 <p>{desc}</p>
-                                <p>test branch</p>
-                                <p>test branch</p>
-                                <h2>hello world</h2>
-                                <button>test</button>
                             </div>
                         </section>
                     )

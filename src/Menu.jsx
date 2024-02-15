@@ -15,7 +15,6 @@ const Menu = ({items}) => {
                                     <p>{price}</p>
                                 </header>
                                 <p>{desc}</p>
-                                <div></div>
                             </div>
                         </section>
                     )
